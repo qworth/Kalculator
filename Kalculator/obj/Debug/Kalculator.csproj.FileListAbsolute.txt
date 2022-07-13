@@ -1,0 +1,11 @@
+C:\Users\Котики\source\repos\Kalculator\Kalculator\bin\Debug\Kalculator.exe.config
+C:\Users\Котики\source\repos\Kalculator\Kalculator\bin\Debug\Kalculator.exe
+C:\Users\Котики\source\repos\Kalculator\Kalculator\bin\Debug\Kalculator.pdb
+C:\Users\Котики\source\repos\Kalculator\Kalculator\obj\Debug\Kalculator.csproj.AssemblyReference.cache
+C:\Users\Котики\source\repos\Kalculator\Kalculator\obj\Debug\Kalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Котики\source\repos\Kalculator\Kalculator\obj\Debug\Kalculator.Properties.Resources.resources
+C:\Users\Котики\source\repos\Kalculator\Kalculator\obj\Debug\Kalculator.csproj.GenerateResource.cache
+C:\Users\Котики\source\repos\Kalculator\Kalculator\obj\Debug\Kalculator.csproj.CoreCompileInputs.cache
+C:\Users\Котики\source\repos\Kalculator\Kalculator\obj\Debug\Kalculator.exe
+C:\Users\Котики\source\repos\Kalculator\Kalculator\obj\Debug\Kalculator.pdb
+C:\Users\Котики\source\repos\Kalculator\Kalculator\obj\Debug\Kalculator.Window.resources
