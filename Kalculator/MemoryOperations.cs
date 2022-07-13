@@ -50,6 +50,9 @@ namespace Kalculator
         private void checkZero() {
             if (savedMemory == "0") {
                 memoryBox.Text = "";
+            } else {
+                memoryBox.Text = "M";
+                window.setIsNewNum(true);
             }
         }
     }

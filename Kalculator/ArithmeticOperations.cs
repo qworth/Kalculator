@@ -44,7 +44,9 @@ namespace Kalculator
 
             action = button.Text;
             savedResult = enterBox.Text;
-            window.setIsNewNum(true);
+            if (!(enterBox.Text == "Деление на ноль невозможно")) {
+                window.setIsNewNum(true);
+            }
         }
         public void equals() {
             if (historyBox.Text != "") {
@@ -55,10 +57,14 @@ namespace Kalculator
                 action = equalsAction;
             }
             calculateBasicOperations();
+
+            if (!(enterBox.Text == "Деление на ноль невозможно")) {
+                historyBox.Text = "";
+                window.setIsNewNum(true);
+            }
+
             action = "";
             savedResult = "0";
-            historyBox.Text = "";
-            window.setIsNewNum(true);
         }
         public void squareRoot() {
             double num;
